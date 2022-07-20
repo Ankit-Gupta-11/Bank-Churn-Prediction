@@ -83,8 +83,6 @@ Evaluation Results of the model.
 
 ## Reference <a id = "6"></a>
 
-<h1 style="text-align: center;" class="list-group-item list-group-item-action active">Reference</h1><a id = "9" ></a>
-
 
 1. [Learning Curves](https://www.kaggle.com/nkitgupta/who-will-leave-a-job)
 
